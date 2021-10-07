@@ -6,6 +6,20 @@ body {
   text-align: center;
 }
 
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  margin: auto;
+}
+
+.grid > div {
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
 .cardBlock {
   display: block;
   margin-top: 100px;
