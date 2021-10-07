@@ -30,11 +30,15 @@ body {
   height: 210px;
   width: 160px;
   background-color: black;
+  border-radius: 10px;
   cursor: pointer;
 }
 
 .cardBlock:hover {
-  background-color: gold;
+  background-image: url("https://i.pinimg.com/originals/05/ea/a0/05eaa0098cb59f2d1a21a625c31217ad.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
 }
 
 .gridRows {

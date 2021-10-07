@@ -1,7 +1,11 @@
 import knight from "./assets/cards/knight.jpg";
 import death from "./assets/cards/death.jpg";
-import light from "./assets/cards/light.jpg";
-import dark from "./assets/cards/dark.jpg";
+import sun from "./assets/cards/sun.jpg";
+import moon from "./assets/cards/moon.jpg";
+import thief from "./assets/cards/thief.jpg";
+import life from "./assets/cards/life.jpg";
+import confinement from "./assets/cards/confinement.jpg";
+import liberty from "./assets/cards/liberty.jpg";
 import cardback from "./assets/cards/cardback.jpg";
 
 const CardsArray = [
@@ -21,15 +25,15 @@ const CardsArray = [
   },
   {
     id: 3,
-    name: "light",
-    img: light,
+    name: "sun",
+    img: sun,
     img2: cardback,
     isFlipped: false,
   },
   {
     id: 4,
-    name: "dark",
-    img: dark,
+    name: "moon",
+    img: moon,
     img2: cardback,
     isFlipped: false,
   },
@@ -49,71 +53,71 @@ const CardsArray = [
   },
   {
     id: 7,
-    name: "light",
-    img: light,
+    name: "sun",
+    img: sun,
     img2: cardback,
     isFlipped: false,
   },
   {
     id: 8,
-    name: "dark",
-    img: dark,
+    name: "moon",
+    img: moon,
     img2: cardback,
     isFlipped: false,
   },
   {
     id: 9,
-    name: "knight",
-    img: knight,
+    name: "thief",
+    img: thief,
     img2: cardback,
     isFlipped: false,
   },
   {
     id: 10,
-    name: "death",
-    img: death,
+    name: "life",
+    img: life,
     img2: cardback,
     isFlipped: false,
   },
   {
     id: 11,
-    name: "light",
-    img: light,
+    name: "liberty",
+    img: liberty,
     img2: cardback,
     isFlipped: false,
   },
   {
     id: 12,
-    name: "dark",
-    img: dark,
+    name: "confinement",
+    img: confinement,
     img2: cardback,
     isFlipped: false,
   },
   {
     id: 13,
-    name: "knight",
-    img: knight,
+    name: "thief",
+    img: thief,
     img2: cardback,
     isFlipped: false,
   },
   {
     id: 14,
-    name: "death",
-    img: death,
+    name: "life",
+    img: life,
     img2: cardback,
     isFlipped: false,
   },
   {
     id: 15,
-    name: "light",
-    img: light,
+    name: "liberty",
+    img: liberty,
     img2: cardback,
     isFlipped: false,
   },
   {
     id: 16,
-    name: "dark",
-    img: dark,
+    name: "confinement",
+    img: confinement,
     img2: cardback,
     isFlipped: false,
   },
